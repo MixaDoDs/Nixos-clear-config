@@ -18,4 +18,5 @@ and generate
 sudo nixos-generate-config
 
 
-![266072a83be2e344af4cb3d4778fcabb](https://github.com/user-attachments/assets/899dfe2c-5a3a-4fe8-99ef-0b37bfc395c3)
+
+![32dba1dda903e364f5d699b9a9ba9004](https://github.com/user-attachments/assets/3628d4a9-f64e-477e-a5f6-a4dd9e2daef3)
